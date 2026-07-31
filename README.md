@@ -4,7 +4,6 @@
 **Institution:** Department of EEE, Bangladesh University of Engineering and Technology (BUET)
 **Section:** G2 | **Group:** 02
 **Full report:** [`EEE402_Project_Report_Group_02.pdf`](EEE402_Project_Report_Group_02.pdf)
-**Code:** https://github.com/navin2006190/Stock_market_prediction_with_sentiment_analysis
 
 ---
 
